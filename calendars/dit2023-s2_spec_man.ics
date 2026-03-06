@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+PRODID:-//fh-schedule-sync//Semester Schedule Export//DE
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALNAME:Specialization MAN
+BEGIN:VEVENT
+UID:evt_00020_dit2023-s2-specialization-man@fh-schedule-sync.local
+DTSTAMP:20260306T204642Z
+SUMMARY:Resp
+DTSTART;TZID=Europe/Berlin:20260127T130000
+DTEND;TZID=Europe/Berlin:20260127T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dit2023-s2/specialization/man
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00021_dit2023-s2-specialization-man@fh-schedule-sync.local
+DTSTAMP:20260306T204642Z
+SUMMARY:CT
+DTSTART;TZID=Europe/Berlin:20260213T090000
+DTEND;TZID=Europe/Berlin:20260213T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dit2023-s2/specialization/man
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00022_dit2023-s2-specialization-man@fh-schedule-sync.local
+DTSTAMP:20260306T204642Z
+SUMMARY:Resp
+DTSTART;TZID=Europe/Berlin:20260217T130000
+DTEND;TZID=Europe/Berlin:20260217T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dit2023-s2/specialization/man
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00023_dit2023-s2-specialization-man@fh-schedule-sync.local
+DTSTAMP:20260306T204642Z
+SUMMARY:CT
+DTSTART;TZID=Europe/Berlin:20260220T090000
+DTEND;TZID=Europe/Berlin:20260220T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dit2023-s2/specialization/man
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00024_dit2023-s2-specialization-man@fh-schedule-sync.local
+DTSTAMP:20260306T204642Z
+SUMMARY:Resp
+DTSTART;TZID=Europe/Berlin:20260223T090000
+DTEND;TZID=Europe/Berlin:20260223T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dit2023-s2/specialization/man
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00025_dit2023-s2-specialization-man@fh-schedule-sync.local
+DTSTAMP:20260306T204642Z
+SUMMARY:CT
+DTSTART;TZID=Europe/Berlin:20260227T090000
+DTEND;TZID=Europe/Berlin:20260227T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dit2023-s2/specialization/man
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00026_dit2023-s2-specialization-man@fh-schedule-sync.local
+DTSTAMP:20260306T204642Z
+SUMMARY:Resp
+DTSTART;TZID=Europe/Berlin:20260302T090000
+DTEND;TZID=Europe/Berlin:20260302T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dit2023-s2/specialization/man
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00019_dit2023-s2-specialization-man@fh-schedule-sync.local
+DTSTAMP:20260306T215836Z
+SUMMARY:CT
+DTSTART;TZID=Europe/Berlin:20260306T130000
+DTEND;TZID=Europe/Berlin:20260306T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dit2023-s2/specialization/man
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00020_dit2023-s2-specialization-man@fh-schedule-sync.local
+DTSTAMP:20260306T215836Z
+SUMMARY:Resp
+DTSTART;TZID=Europe/Berlin:20260310T130000
+DTEND;TZID=Europe/Berlin:20260310T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dit2023-s2/specialization/man
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00021_dit2023-s2-specialization-man@fh-schedule-sync.local
+DTSTAMP:20260306T215836Z
+SUMMARY:CT
+DTSTART;TZID=Europe/Berlin:20260311T090000
+DTEND;TZID=Europe/Berlin:20260311T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dit2023-s2/specialization/man
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00022_dit2023-s2-specialization-man@fh-schedule-sync.local
+DTSTAMP:20260306T215836Z
+SUMMARY:CT
+DTSTART;TZID=Europe/Berlin:20260313T130000
+DTEND;TZID=Europe/Berlin:20260313T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dit2023-s2/specialization/man
+END:VEVENT
+END:VCALENDAR
