@@ -6,8 +6,8 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALNAME:KLAUSUREN
 BEGIN:VEVENT
-UID:evt_00228_dit2023-s1-elective-klausuren@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00236_dit2023-s1-elective-klausuren@fh-schedule-sync.local
+DTSTAMP:20260307T223755Z
 SUMMARY:Klausuren ET/SAP/Verw
 DTSTART;TZID=Europe/Berlin:20260320T110000
 DTEND;TZID=Europe/Berlin:20260320T120000
@@ -16,8 +16,8 @@ DESCRIPTION:Dozent: not found
 CATEGORIES:dit2023-s1/elective/klausuren
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00229_dit2023-s1-elective-klausuren@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00237_dit2023-s1-elective-klausuren@fh-schedule-sync.local
+DTSTAMP:20260307T223755Z
 SUMMARY:Klausuren EMS // CT/Resp
 DTSTART;TZID=Europe/Berlin:20260327T100000
 DTEND;TZID=Europe/Berlin:20260327T120000
@@ -26,8 +26,8 @@ DESCRIPTION:Dozent: not found
 CATEGORIES:dit2023-s1/elective/klausuren
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00230_dit2023-s1-elective-klausuren@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00238_dit2023-s1-elective-klausuren@fh-schedule-sync.local
+DTSTAMP:20260307T223755Z
 SUMMARY:Klausuren Vertiefung
 DTSTART;TZID=Europe/Berlin:20260327T100000
 DTEND;TZID=Europe/Berlin:20260327T120000

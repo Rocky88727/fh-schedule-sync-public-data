@@ -76,8 +76,8 @@ DESCRIPTION:Dozent: not found
 CATEGORIES:dit2023-s1/specialization/st
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00160_dit2023-s1-specialization-st@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00168_dit2023-s1-specialization-st@fh-schedule-sync.local
+DTSTAMP:20260307T223755Z
 SUMMARY:EMS
 DTSTART;TZID=Europe/Berlin:20260310T130000
 DTEND;TZID=Europe/Berlin:20260310T161500
@@ -86,8 +86,8 @@ DESCRIPTION:Dozent: not found
 CATEGORIES:dit2023-s1/specialization/st
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00161_dit2023-s1-specialization-st@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00169_dit2023-s1-specialization-st@fh-schedule-sync.local
+DTSTAMP:20260307T223755Z
 SUMMARY:FC
 DTSTART;TZID=Europe/Berlin:20260311T090000
 DTEND;TZID=Europe/Berlin:20260311T121500
@@ -96,8 +96,8 @@ DESCRIPTION:Dozent: not found
 CATEGORIES:dit2023-s1/specialization/st
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00162_dit2023-s1-specialization-st@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00170_dit2023-s1-specialization-st@fh-schedule-sync.local
+DTSTAMP:20260307T223755Z
 SUMMARY:EMS
 DTSTART;TZID=Europe/Berlin:20260312T090000
 DTEND;TZID=Europe/Berlin:20260312T121500

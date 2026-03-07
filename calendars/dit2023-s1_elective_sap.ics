@@ -96,8 +96,8 @@ DESCRIPTION:Dozent: not found
 CATEGORIES:dit2023-s1/elective/sap
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00227_dit2023-s1-elective-sap@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00235_dit2023-s1-elective-sap@fh-schedule-sync.local
+DTSTAMP:20260307T223755Z
 SUMMARY:SAP
 DTSTART;TZID=Europe/Berlin:20260309T163000
 DTEND;TZID=Europe/Berlin:20260309T194500

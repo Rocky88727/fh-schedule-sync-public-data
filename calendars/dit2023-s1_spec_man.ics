@@ -86,8 +86,8 @@ DESCRIPTION:Dozent: not found
 CATEGORIES:dit2023-s1/specialization/man
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00149_dit2023-s1-specialization-man@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00157_dit2023-s1-specialization-man@fh-schedule-sync.local
+DTSTAMP:20260307T223755Z
 SUMMARY:Resp
 DTSTART;TZID=Europe/Berlin:20260310T130000
 DTEND;TZID=Europe/Berlin:20260310T161500
@@ -96,8 +96,8 @@ DESCRIPTION:Dozent: not found
 CATEGORIES:dit2023-s1/specialization/man
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00150_dit2023-s1-specialization-man@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00158_dit2023-s1-specialization-man@fh-schedule-sync.local
+DTSTAMP:20260307T223755Z
 SUMMARY:CT
 DTSTART;TZID=Europe/Berlin:20260311T090000
 DTEND;TZID=Europe/Berlin:20260311T121500
@@ -106,8 +106,8 @@ DESCRIPTION:Dozent: not found
 CATEGORIES:dit2023-s1/specialization/man
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00151_dit2023-s1-specialization-man@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00159_dit2023-s1-specialization-man@fh-schedule-sync.local
+DTSTAMP:20260307T223755Z
 SUMMARY:Resp
 DTSTART;TZID=Europe/Berlin:20260312T090000
 DTEND;TZID=Europe/Berlin:20260312T121500
@@ -116,8 +116,8 @@ DESCRIPTION:Dozent: not found
 CATEGORIES:dit2023-s1/specialization/man
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00152_dit2023-s1-specialization-man@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00160_dit2023-s1-specialization-man@fh-schedule-sync.local
+DTSTAMP:20260307T223755Z
 SUMMARY:CT
 DTSTART;TZID=Europe/Berlin:20260313T130000
 DTEND;TZID=Europe/Berlin:20260313T161500

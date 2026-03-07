@@ -96,8 +96,8 @@ DESCRIPTION:Dozent: not found
 CATEGORIES:dit2023-s1/elective/verw
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00194_dit2023-s1-elective-verw@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00202_dit2023-s1-elective-verw@fh-schedule-sync.local
+DTSTAMP:20260307T223755Z
 SUMMARY:Verw
 DTSTART;TZID=Europe/Berlin:20260309T090000
 DTEND;TZID=Europe/Berlin:20260309T161500

@@ -76,8 +76,8 @@ DESCRIPTION:Dozent: not found
 CATEGORIES:dit2023-s1/elective/spm
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00211_dit2023-s1-elective-spm@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00219_dit2023-s1-elective-spm@fh-schedule-sync.local
+DTSTAMP:20260307T223755Z
 SUMMARY:SPM
 DTSTART;TZID=Europe/Berlin:20260309T090000
 DTEND;TZID=Europe/Berlin:20260309T161500
