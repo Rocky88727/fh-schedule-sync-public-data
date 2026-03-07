@@ -6,8 +6,8 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALNAME:ITSC
 BEGIN:VEVENT
-UID:evt_00079_dit2023-s1-elective-itsc@fh-schedule-sync.local
-DTSTAMP:20260306T204642Z
+UID:evt_00212_dit2023-s1-elective-itsc@fh-schedule-sync.local
+DTSTAMP:20260307T212258Z
 SUMMARY:ITSC
 DTSTART;TZID=Europe/Berlin:20260123T090000
 DTEND;TZID=Europe/Berlin:20260123T161500
@@ -16,8 +16,8 @@ DESCRIPTION:Dozent: not found
 CATEGORIES:dit2023-s1/elective/itsc
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00080_dit2023-s1-elective-itsc@fh-schedule-sync.local
-DTSTAMP:20260306T204642Z
+UID:evt_00213_dit2023-s1-elective-itsc@fh-schedule-sync.local
+DTSTAMP:20260307T212258Z
 SUMMARY:ITSC
 DTSTART;TZID=Europe/Berlin:20260128T090000
 DTEND;TZID=Europe/Berlin:20260128T161500
@@ -26,8 +26,8 @@ DESCRIPTION:Dozent: not found
 CATEGORIES:dit2023-s1/elective/itsc
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00081_dit2023-s1-elective-itsc@fh-schedule-sync.local
-DTSTAMP:20260306T204642Z
+UID:evt_00214_dit2023-s1-elective-itsc@fh-schedule-sync.local
+DTSTAMP:20260307T212258Z
 SUMMARY:ITSC
 DTSTART;TZID=Europe/Berlin:20260206T130000
 DTEND;TZID=Europe/Berlin:20260206T161500
@@ -36,8 +36,8 @@ DESCRIPTION:Dozent: not found
 CATEGORIES:dit2023-s1/elective/itsc
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00082_dit2023-s1-elective-itsc@fh-schedule-sync.local
-DTSTAMP:20260306T204642Z
+UID:evt_00215_dit2023-s1-elective-itsc@fh-schedule-sync.local
+DTSTAMP:20260307T212258Z
 SUMMARY:ITSC
 DTSTART;TZID=Europe/Berlin:20260213T130000
 DTEND;TZID=Europe/Berlin:20260213T161500
@@ -46,8 +46,8 @@ DESCRIPTION:Dozent: not found
 CATEGORIES:dit2023-s1/elective/itsc
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00083_dit2023-s1-elective-itsc@fh-schedule-sync.local
-DTSTAMP:20260306T204642Z
+UID:evt_00216_dit2023-s1-elective-itsc@fh-schedule-sync.local
+DTSTAMP:20260307T212258Z
 SUMMARY:ITSC
 DTSTART;TZID=Europe/Berlin:20260220T130000
 DTEND;TZID=Europe/Berlin:20260220T161500
@@ -56,8 +56,8 @@ DESCRIPTION:Dozent: not found
 CATEGORIES:dit2023-s1/elective/itsc
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00084_dit2023-s1-elective-itsc@fh-schedule-sync.local
-DTSTAMP:20260306T204642Z
+UID:evt_00217_dit2023-s1-elective-itsc@fh-schedule-sync.local
+DTSTAMP:20260307T212258Z
 SUMMARY:ITSC
 DTSTART;TZID=Europe/Berlin:20260227T130000
 DTEND;TZID=Europe/Berlin:20260227T161500
