@@ -6,103 +6,103 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALNAME:Specialization ST
 BEGIN:VEVENT
-UID:evt_00153_dit2023-s1-specialization-st@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00025_dit2023-s2-specialization-st@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:FC
 DTSTART;TZID=Europe/Berlin:20260210T090000
 DTEND;TZID=Europe/Berlin:20260210T121500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/specialization/st
+CATEGORIES:dit2023-s2/specialization/st
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00154_dit2023-s1-specialization-st@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00026_dit2023-s2-specialization-st@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:FC
 DTSTART;TZID=Europe/Berlin:20260217T090000
 DTEND;TZID=Europe/Berlin:20260217T121500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/specialization/st
+CATEGORIES:dit2023-s2/specialization/st
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00155_dit2023-s1-specialization-st@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00027_dit2023-s2-specialization-st@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:FC
 DTSTART;TZID=Europe/Berlin:20260224T090000
 DTEND;TZID=Europe/Berlin:20260224T121500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/specialization/st
+CATEGORIES:dit2023-s2/specialization/st
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00156_dit2023-s1-specialization-st@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00028_dit2023-s2-specialization-st@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:FC
 DTSTART;TZID=Europe/Berlin:20260227T090000
 DTEND;TZID=Europe/Berlin:20260227T121500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/specialization/st
+CATEGORIES:dit2023-s2/specialization/st
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00157_dit2023-s1-specialization-st@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00029_dit2023-s2-specialization-st@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:EMS
 DTSTART;TZID=Europe/Berlin:20260302T090000
 DTEND;TZID=Europe/Berlin:20260302T121500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/specialization/st
+CATEGORIES:dit2023-s2/specialization/st
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00158_dit2023-s1-specialization-st@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00030_dit2023-s2-specialization-st@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:FC
 DTSTART;TZID=Europe/Berlin:20260303T090000
 DTEND;TZID=Europe/Berlin:20260303T121500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/specialization/st
+CATEGORIES:dit2023-s2/specialization/st
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00159_dit2023-s1-specialization-st@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00031_dit2023-s2-specialization-st@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:EMS
 DTSTART;TZID=Europe/Berlin:20260306T090000
 DTEND;TZID=Europe/Berlin:20260306T121500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/specialization/st
+CATEGORIES:dit2023-s2/specialization/st
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00032_dit2023-s1-specialization-st@fh-schedule-sync.local
+UID:evt_00032_dit2023-s2-specialization-st@fh-schedule-sync.local
 DTSTAMP:20260308T205006Z
 SUMMARY:EMS
 DTSTART;TZID=Europe/Berlin:20260310T130000
 DTEND;TZID=Europe/Berlin:20260310T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/specialization/st
+CATEGORIES:dit2023-s2/specialization/st
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00033_dit2023-s1-specialization-st@fh-schedule-sync.local
+UID:evt_00033_dit2023-s2-specialization-st@fh-schedule-sync.local
 DTSTAMP:20260308T205006Z
 SUMMARY:FC
 DTSTART;TZID=Europe/Berlin:20260311T090000
 DTEND;TZID=Europe/Berlin:20260311T121500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/specialization/st
+CATEGORIES:dit2023-s2/specialization/st
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00034_dit2023-s1-specialization-st@fh-schedule-sync.local
+UID:evt_00034_dit2023-s2-specialization-st@fh-schedule-sync.local
 DTSTAMP:20260308T205006Z
 SUMMARY:EMS
 DTSTART;TZID=Europe/Berlin:20260312T090000
 DTEND;TZID=Europe/Berlin:20260312T121500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/specialization/st
+CATEGORIES:dit2023-s2/specialization/st
 END:VEVENT
 END:VCALENDAR

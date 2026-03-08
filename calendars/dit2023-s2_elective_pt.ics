@@ -6,103 +6,103 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALNAME:PT
 BEGIN:VEVENT
-UID:evt_00175_dit2023-s1-elective-pt@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00041_dit2023-s2-elective-pt@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:PT
 DTSTART;TZID=Europe/Berlin:20260119T130000
 DTEND;TZID=Europe/Berlin:20260119T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/pt
+CATEGORIES:dit2023-s2/elective/pt
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00176_dit2023-s1-elective-pt@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00042_dit2023-s2-elective-pt@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:PT
 DTSTART;TZID=Europe/Berlin:20260121T090000
 DTEND;TZID=Europe/Berlin:20260121T121500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/pt
+CATEGORIES:dit2023-s2/elective/pt
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00177_dit2023-s1-elective-pt@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00043_dit2023-s2-elective-pt@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:PT
 DTSTART;TZID=Europe/Berlin:20260122T090000
 DTEND;TZID=Europe/Berlin:20260122T121500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/pt
+CATEGORIES:dit2023-s2/elective/pt
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00178_dit2023-s1-elective-pt@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00044_dit2023-s2-elective-pt@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:PT
 DTSTART;TZID=Europe/Berlin:20260126T090000
 DTEND;TZID=Europe/Berlin:20260126T121500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/pt
+CATEGORIES:dit2023-s2/elective/pt
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00179_dit2023-s1-elective-pt@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00045_dit2023-s2-elective-pt@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:PT
 DTSTART;TZID=Europe/Berlin:20260130T090000
 DTEND;TZID=Europe/Berlin:20260130T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/pt
+CATEGORIES:dit2023-s2/elective/pt
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00180_dit2023-s1-elective-pt@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00046_dit2023-s2-elective-pt@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:PT
 DTSTART;TZID=Europe/Berlin:20260205T090000
 DTEND;TZID=Europe/Berlin:20260205T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/pt
+CATEGORIES:dit2023-s2/elective/pt
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00181_dit2023-s1-elective-pt@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00047_dit2023-s2-elective-pt@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:PT
 DTSTART;TZID=Europe/Berlin:20260212T090000
 DTEND;TZID=Europe/Berlin:20260212T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/pt
+CATEGORIES:dit2023-s2/elective/pt
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00182_dit2023-s1-elective-pt@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00048_dit2023-s2-elective-pt@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:PT
 DTSTART;TZID=Europe/Berlin:20260219T090000
 DTEND;TZID=Europe/Berlin:20260219T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/pt
+CATEGORIES:dit2023-s2/elective/pt
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00183_dit2023-s1-elective-pt@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00049_dit2023-s2-elective-pt@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:PT
 DTSTART;TZID=Europe/Berlin:20260226T090000
 DTEND;TZID=Europe/Berlin:20260226T121500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/pt
+CATEGORIES:dit2023-s2/elective/pt
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00050_dit2023-s1-elective-pt@fh-schedule-sync.local
+UID:evt_00050_dit2023-s2-elective-pt@fh-schedule-sync.local
 DTSTAMP:20260308T205006Z
 SUMMARY:PT
 DTSTART;TZID=Europe/Berlin:20260309T090000
 DTEND;TZID=Europe/Berlin:20260309T161500
 LOCATION:Raum 1.9
 DESCRIPTION:Dozent: Arnold
-CATEGORIES:dit2023-s1/elective/pt
+CATEGORIES:dit2023-s2/elective/pt
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,118 @@
+BEGIN:VCALENDAR
+PRODID:-//fh-schedule-sync//Semester Schedule Export//DE
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALNAME:Specialization HEALTH_MANAGEMENT
+BEGIN:VEVENT
+UID:evt_00055_dba-be2023-b-specialization-health-management@fh-schedule-syn
+ c.local
+DTSTAMP:20260308T205006Z
+SUMMARY:Budget
+DTSTART;TZID=Europe/Berlin:20260127T090000
+DTEND;TZID=Europe/Berlin:20260127T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/health_management
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00056_dba-be2023-b-specialization-health-management@fh-schedule-syn
+ c.local
+DTSTAMP:20260308T205006Z
+SUMMARY:MC
+DTSTART;TZID=Europe/Berlin:20260129T090000
+DTEND;TZID=Europe/Berlin:20260129T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/health_management
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00057_dba-be2023-b-specialization-health-management@fh-schedule-syn
+ c.local
+DTSTAMP:20260308T205006Z
+SUMMARY:Budget
+DTSTART;TZID=Europe/Berlin:20260209T090000
+DTEND;TZID=Europe/Berlin:20260209T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/health_management
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00058_dba-be2023-b-specialization-health-management@fh-schedule-syn
+ c.local
+DTSTAMP:20260308T205006Z
+SUMMARY:GÖ
+DTSTART;TZID=Europe/Berlin:20260210T090000
+DTEND;TZID=Europe/Berlin:20260210T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/health_management
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00059_dba-be2023-b-specialization-health-management@fh-schedule-syn
+ c.local
+DTSTAMP:20260308T205006Z
+SUMMARY:Budget
+DTSTART;TZID=Europe/Berlin:20260213T090000
+DTEND;TZID=Europe/Berlin:20260213T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/health_management
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00060_dba-be2023-b-specialization-health-management@fh-schedule-syn
+ c.local
+DTSTAMP:20260308T205006Z
+SUMMARY:Budget
+DTSTART;TZID=Europe/Berlin:20260217T090000
+DTEND;TZID=Europe/Berlin:20260217T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/health_management
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00061_dba-be2023-b-specialization-health-management@fh-schedule-syn
+ c.local
+DTSTAMP:20260308T205006Z
+SUMMARY:MC
+DTSTART;TZID=Europe/Berlin:20260219T090000
+DTEND;TZID=Europe/Berlin:20260219T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/health_management
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00062_dba-be2023-b-specialization-health-management@fh-schedule-syn
+ c.local
+DTSTAMP:20260308T205006Z
+SUMMARY:Budget
+DTSTART;TZID=Europe/Berlin:20260224T090000
+DTEND;TZID=Europe/Berlin:20260224T121500
+LOCATION:online
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/health_management
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00063_dba-be2023-b-specialization-health-management@fh-schedule-syn
+ c.local
+DTSTAMP:20260308T205006Z
+SUMMARY:GÖ
+DTSTART;TZID=Europe/Berlin:20260227T090000
+DTEND;TZID=Europe/Berlin:20260227T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/health_management
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00064_dba-be2023-b-specialization-health-management@fh-schedule-syn
+ c.local
+DTSTAMP:20260308T205006Z
+SUMMARY:MC
+DTSTART;TZID=Europe/Berlin:20260310T090000
+DTEND;TZID=Europe/Berlin:20260310T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/health_management
+END:VEVENT
+END:VCALENDAR

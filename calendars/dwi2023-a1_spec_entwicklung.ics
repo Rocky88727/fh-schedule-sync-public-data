@@ -1,0 +1,78 @@
+BEGIN:VCALENDAR
+PRODID:-//fh-schedule-sync//Semester Schedule Export//DE
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALNAME:Specialization ENTWICKLUNG
+BEGIN:VEVENT
+UID:evt_00033_dwi2023-a1-specialization-entwicklung@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:MM
+DTSTART;TZID=Europe/Berlin:20260202T090000
+DTEND;TZID=Europe/Berlin:20260202T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dwi2023-a1/specialization/entwicklung
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00034_dwi2023-a1-specialization-entwicklung@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:MM
+DTSTART;TZID=Europe/Berlin:20260204T130000
+DTEND;TZID=Europe/Berlin:20260204T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dwi2023-a1/specialization/entwicklung
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00035_dwi2023-a1-specialization-entwicklung@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:AS
+DTSTART;TZID=Europe/Berlin:20260211T130000
+DTEND;TZID=Europe/Berlin:20260211T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dwi2023-a1/specialization/entwicklung
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00036_dwi2023-a1-specialization-entwicklung@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:MM
+DTSTART;TZID=Europe/Berlin:20260216T130000
+DTEND;TZID=Europe/Berlin:20260216T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dwi2023-a1/specialization/entwicklung
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00037_dwi2023-a1-specialization-entwicklung@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:MM
+DTSTART;TZID=Europe/Berlin:20260218T130000
+DTEND;TZID=Europe/Berlin:20260218T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dwi2023-a1/specialization/entwicklung
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00038_dwi2023-a1-specialization-entwicklung@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:AS
+DTSTART;TZID=Europe/Berlin:20260223T090000
+DTEND;TZID=Europe/Berlin:20260223T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dwi2023-a1/specialization/entwicklung
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00039_dwi2023-a1-specialization-entwicklung@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:AS
+DTSTART;TZID=Europe/Berlin:20260302T090000
+DTEND;TZID=Europe/Berlin:20260302T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dwi2023-a1/specialization/entwicklung
+END:VEVENT
+END:VCALENDAR

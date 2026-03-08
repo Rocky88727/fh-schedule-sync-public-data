@@ -6,83 +6,83 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALNAME:SPM
 BEGIN:VEVENT
-UID:evt_00204_dit2023-s1-elective-spm@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00075_dwi2023-a1-elective-spm@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:SPM
 DTSTART;TZID=Europe/Berlin:20260122T090000
 DTEND;TZID=Europe/Berlin:20260122T121500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/spm
+CATEGORIES:dwi2023-a1/elective/spm
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00205_dit2023-s1-elective-spm@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00076_dwi2023-a1-elective-spm@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:SPM
 DTSTART;TZID=Europe/Berlin:20260130T090000
 DTEND;TZID=Europe/Berlin:20260130T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/spm
+CATEGORIES:dwi2023-a1/elective/spm
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00206_dit2023-s1-elective-spm@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00077_dwi2023-a1-elective-spm@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:SPM
 DTSTART;TZID=Europe/Berlin:20260205T090000
 DTEND;TZID=Europe/Berlin:20260205T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/spm
+CATEGORIES:dwi2023-a1/elective/spm
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00207_dit2023-s1-elective-spm@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00078_dwi2023-a1-elective-spm@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:SPM
 DTSTART;TZID=Europe/Berlin:20260212T090000
 DTEND;TZID=Europe/Berlin:20260212T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/spm
+CATEGORIES:dwi2023-a1/elective/spm
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00208_dit2023-s1-elective-spm@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00079_dwi2023-a1-elective-spm@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:SPM
 DTSTART;TZID=Europe/Berlin:20260219T090000
 DTEND;TZID=Europe/Berlin:20260219T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/spm
+CATEGORIES:dwi2023-a1/elective/spm
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00209_dit2023-s1-elective-spm@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00080_dwi2023-a1-elective-spm@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:SPM
 DTSTART;TZID=Europe/Berlin:20260226T090000
 DTEND;TZID=Europe/Berlin:20260226T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/spm
+CATEGORIES:dwi2023-a1/elective/spm
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00210_dit2023-s1-elective-spm@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00081_dwi2023-a1-elective-spm@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:SPM
 DTSTART;TZID=Europe/Berlin:20260305T090000
 DTEND;TZID=Europe/Berlin:20260305T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/spm
+CATEGORIES:dwi2023-a1/elective/spm
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00077_dit2023-s1-elective-spm@fh-schedule-sync.local
+UID:evt_00082_dwi2023-a1-elective-spm@fh-schedule-sync.local
 DTSTAMP:20260308T205006Z
 SUMMARY:SPM
 DTSTART;TZID=Europe/Berlin:20260309T090000
 DTEND;TZID=Europe/Berlin:20260309T161500
 LOCATION:Raum 4.3
 DESCRIPTION:Dozent: Schmidt
-CATEGORIES:dit2023-s1/elective/spm
+CATEGORIES:dwi2023-a1/elective/spm
 END:VEVENT
 END:VCALENDAR

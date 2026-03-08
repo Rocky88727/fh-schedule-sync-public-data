@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+PRODID:-//fh-schedule-sync//Semester Schedule Export//DE
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALNAME:Specialization VERWALTUNG
+BEGIN:VEVENT
+UID:evt_00025_dwi2023-a1-specialization-verwaltung@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:DTV
+DTSTART;TZID=Europe/Berlin:20260126T130000
+DTEND;TZID=Europe/Berlin:20260126T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dwi2023-a1/specialization/verwaltung
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00026_dwi2023-a1-specialization-verwaltung@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:DTV
+DTSTART;TZID=Europe/Berlin:20260202T090000
+DTEND;TZID=Europe/Berlin:20260202T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dwi2023-a1/specialization/verwaltung
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00027_dwi2023-a1-specialization-verwaltung@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:DTV
+DTSTART;TZID=Europe/Berlin:20260204T130000
+DTEND;TZID=Europe/Berlin:20260204T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dwi2023-a1/specialization/verwaltung
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00028_dwi2023-a1-specialization-verwaltung@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:DTV
+DTSTART;TZID=Europe/Berlin:20260211T130000
+DTEND;TZID=Europe/Berlin:20260211T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dwi2023-a1/specialization/verwaltung
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00029_dwi2023-a1-specialization-verwaltung@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:DTV
+DTSTART;TZID=Europe/Berlin:20260216T130000
+DTEND;TZID=Europe/Berlin:20260216T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dwi2023-a1/specialization/verwaltung
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00030_dwi2023-a1-specialization-verwaltung@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:DTV
+DTSTART;TZID=Europe/Berlin:20260218T130000
+DTEND;TZID=Europe/Berlin:20260218T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dwi2023-a1/specialization/verwaltung
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00031_dwi2023-a1-specialization-verwaltung@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:DTV
+DTSTART;TZID=Europe/Berlin:20260223T090000
+DTEND;TZID=Europe/Berlin:20260223T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dwi2023-a1/specialization/verwaltung
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00032_dwi2023-a1-specialization-verwaltung@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:DTV
+DTSTART;TZID=Europe/Berlin:20260302T130000
+DTEND;TZID=Europe/Berlin:20260302T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dwi2023-a1/specialization/verwaltung
+END:VEVENT
+END:VCALENDAR

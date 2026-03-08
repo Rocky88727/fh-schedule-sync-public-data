@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+PRODID:-//fh-schedule-sync//Semester Schedule Export//DE
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALNAME:Specialization BUSINESS_ADMINISTRATION
+BEGIN:VEVENT
+UID:evt_00024_dba-be2023-b-specialization-business-administration@fh-schedu
+ le-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:PP II
+DTSTART;TZID=Europe/Berlin:20260119T090000
+DTEND;TZID=Europe/Berlin:20260119T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_administration
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00025_dba-be2023-b-specialization-business-administration@fh-schedu
+ le-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:PP II
+DTSTART;TZID=Europe/Berlin:20260121T090000
+DTEND;TZID=Europe/Berlin:20260121T143000
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_administration
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00026_dba-be2023-b-specialization-business-administration@fh-schedu
+ le-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:PP II
+DTSTART;TZID=Europe/Berlin:20260126T090000
+DTEND;TZID=Europe/Berlin:20260126T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_administration
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00027_dba-be2023-b-specialization-business-administration@fh-schedu
+ le-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:PP II
+DTSTART;TZID=Europe/Berlin:20260204T130000
+DTEND;TZID=Europe/Berlin:20260204T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_administration
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00028_dba-be2023-b-specialization-business-administration@fh-schedu
+ le-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:PP II
+DTSTART;TZID=Europe/Berlin:20260211T130000
+DTEND;TZID=Europe/Berlin:20260211T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_administration
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00029_dba-be2023-b-specialization-business-administration@fh-schedu
+ le-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:PP III
+DTSTART;TZID=Europe/Berlin:20260216T090000
+DTEND;TZID=Europe/Berlin:20260216T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_administration
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00030_dba-be2023-b-specialization-business-administration@fh-schedu
+ le-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:PP III
+DTSTART;TZID=Europe/Berlin:20260218T090000
+DTEND;TZID=Europe/Berlin:20260218T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_administration
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00031_dba-be2023-b-specialization-business-administration@fh-schedu
+ le-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:PP III
+DTSTART;TZID=Europe/Berlin:20260220T090000
+DTEND;TZID=Europe/Berlin:20260220T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_administration
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00032_dba-be2023-b-specialization-business-administration@fh-schedu
+ le-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:PP III
+DTSTART;TZID=Europe/Berlin:20260223T130000
+DTEND;TZID=Europe/Berlin:20260223T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_administration
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00033_dba-be2023-b-specialization-business-administration@fh-schedu
+ le-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:PP III
+DTSTART;TZID=Europe/Berlin:20260225T130000
+DTEND;TZID=Europe/Berlin:20260225T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_administration
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00034_dba-be2023-b-specialization-business-administration@fh-schedu
+ le-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:PP III
+DTSTART;TZID=Europe/Berlin:20260302T130000
+DTEND;TZID=Europe/Berlin:20260302T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_administration
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00035_dba-be2023-b-specialization-business-administration@fh-schedu
+ le-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:PP III
+DTSTART;TZID=Europe/Berlin:20260311T130000
+DTEND;TZID=Europe/Berlin:20260311T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_administration
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00036_dba-be2023-b-specialization-business-administration@fh-schedu
+ le-sync.local
+DTSTAMP:20260308T205006Z
+SUMMARY:PP II
+DTSTART;TZID=Europe/Berlin:20260323T090000
+DTEND;TZID=Europe/Berlin:20260323T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_administration
+END:VEVENT
+END:VCALENDAR

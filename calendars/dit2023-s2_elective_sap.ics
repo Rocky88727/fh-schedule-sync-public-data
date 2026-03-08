@@ -6,103 +6,103 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALNAME:SAP
 BEGIN:VEVENT
-UID:evt_00218_dit2023-s1-elective-sap@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00084_dit2023-s2-elective-sap@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:SAP
 DTSTART;TZID=Europe/Berlin:20260119T163000
 DTEND;TZID=Europe/Berlin:20260119T194500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/sap
+CATEGORIES:dit2023-s2/elective/sap
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00219_dit2023-s1-elective-sap@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00085_dit2023-s2-elective-sap@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:SAP
 DTSTART;TZID=Europe/Berlin:20260121T163000
 DTEND;TZID=Europe/Berlin:20260121T194500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/sap
+CATEGORIES:dit2023-s2/elective/sap
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00220_dit2023-s1-elective-sap@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00086_dit2023-s2-elective-sap@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:SAP
 DTSTART;TZID=Europe/Berlin:20260126T163000
 DTEND;TZID=Europe/Berlin:20260126T194500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/sap
+CATEGORIES:dit2023-s2/elective/sap
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00221_dit2023-s1-elective-sap@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00087_dit2023-s2-elective-sap@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:SAP
 DTSTART;TZID=Europe/Berlin:20260129T163000
 DTEND;TZID=Europe/Berlin:20260129T211500
 LOCATION:online
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/sap
+CATEGORIES:dit2023-s2/elective/sap
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00222_dit2023-s1-elective-sap@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00088_dit2023-s2-elective-sap@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:SAP
 DTSTART;TZID=Europe/Berlin:20260205T163000
 DTEND;TZID=Europe/Berlin:20260205T211500
 LOCATION:online
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/sap
+CATEGORIES:dit2023-s2/elective/sap
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00223_dit2023-s1-elective-sap@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00089_dit2023-s2-elective-sap@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:SAP
 DTSTART;TZID=Europe/Berlin:20260211T163000
 DTEND;TZID=Europe/Berlin:20260211T211500
 LOCATION:online
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/sap
+CATEGORIES:dit2023-s2/elective/sap
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00224_dit2023-s1-elective-sap@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00090_dit2023-s2-elective-sap@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:SAP
 DTSTART;TZID=Europe/Berlin:20260212T163000
 DTEND;TZID=Europe/Berlin:20260212T211500
 LOCATION:online
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/sap
+CATEGORIES:dit2023-s2/elective/sap
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00225_dit2023-s1-elective-sap@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00091_dit2023-s2-elective-sap@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:SAP
 DTSTART;TZID=Europe/Berlin:20260219T163000
 DTEND;TZID=Europe/Berlin:20260219T211500
 LOCATION:online
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/sap
+CATEGORIES:dit2023-s2/elective/sap
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00226_dit2023-s1-elective-sap@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00092_dit2023-s2-elective-sap@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:SAP
 DTSTART;TZID=Europe/Berlin:20260305T163000
 DTEND;TZID=Europe/Berlin:20260305T194500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/sap
+CATEGORIES:dit2023-s2/elective/sap
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00093_dit2023-s1-elective-sap@fh-schedule-sync.local
+UID:evt_00093_dit2023-s2-elective-sap@fh-schedule-sync.local
 DTSTAMP:20260308T205006Z
 SUMMARY:SAP
 DTSTART;TZID=Europe/Berlin:20260309T163000
 DTEND;TZID=Europe/Berlin:20260309T211500
 LOCATION:Raum 1.1
 DESCRIPTION:Dozent: Schwaiger
-CATEGORIES:dit2023-s1/elective/sap
+CATEGORIES:dit2023-s2/elective/sap
 END:VEVENT
 END:VCALENDAR

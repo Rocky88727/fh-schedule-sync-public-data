@@ -6,93 +6,93 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALNAME:ET
 BEGIN:VEVENT
-UID:evt_00195_dit2023-s1-elective-et@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00066_dwi2023-a1-elective-et@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:ET
 DTSTART;TZID=Europe/Berlin:20260119T130000
 DTEND;TZID=Europe/Berlin:20260119T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/et
+CATEGORIES:dwi2023-a1/elective/et
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00196_dit2023-s1-elective-et@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00067_dwi2023-a1-elective-et@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:ET
 DTSTART;TZID=Europe/Berlin:20260122T090000
 DTEND;TZID=Europe/Berlin:20260122T121500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/et
+CATEGORIES:dwi2023-a1/elective/et
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00197_dit2023-s1-elective-et@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00068_dwi2023-a1-elective-et@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:ET
 DTSTART;TZID=Europe/Berlin:20260126T090000
 DTEND;TZID=Europe/Berlin:20260126T121500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/et
+CATEGORIES:dwi2023-a1/elective/et
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00198_dit2023-s1-elective-et@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00069_dwi2023-a1-elective-et@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:ET
 DTSTART;TZID=Europe/Berlin:20260130T090000
 DTEND;TZID=Europe/Berlin:20260130T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/et
+CATEGORIES:dwi2023-a1/elective/et
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00199_dit2023-s1-elective-et@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00070_dwi2023-a1-elective-et@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:ET
 DTSTART;TZID=Europe/Berlin:20260205T090000
 DTEND;TZID=Europe/Berlin:20260205T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/et
+CATEGORIES:dwi2023-a1/elective/et
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00200_dit2023-s1-elective-et@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00071_dwi2023-a1-elective-et@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:ET
 DTSTART;TZID=Europe/Berlin:20260212T090000
 DTEND;TZID=Europe/Berlin:20260212T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/et
+CATEGORIES:dwi2023-a1/elective/et
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00201_dit2023-s1-elective-et@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00072_dwi2023-a1-elective-et@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:ET
 DTSTART;TZID=Europe/Berlin:20260219T090000
 DTEND;TZID=Europe/Berlin:20260219T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/et
+CATEGORIES:dwi2023-a1/elective/et
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00202_dit2023-s1-elective-et@fh-schedule-sync.local
-DTSTAMP:20260307T212258Z
+UID:evt_00073_dwi2023-a1-elective-et@fh-schedule-sync.local
+DTSTAMP:20260308T205006Z
 SUMMARY:ET
 DTSTART;TZID=Europe/Berlin:20260305T090000
 DTEND;TZID=Europe/Berlin:20260305T161500
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/et
+CATEGORIES:dwi2023-a1/elective/et
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00069_dit2023-s1-elective-et@fh-schedule-sync.local
+UID:evt_00074_dwi2023-a1-elective-et@fh-schedule-sync.local
 DTSTAMP:20260308T205006Z
 SUMMARY:ET
 DTSTART;TZID=Europe/Berlin:20260309T090000
 DTEND;TZID=Europe/Berlin:20260309T161500
 LOCATION:Raum 4.2
 DESCRIPTION:Dozent: Bethge
-CATEGORIES:dit2023-s1/elective/et
+CATEGORIES:dwi2023-a1/elective/et
 END:VEVENT
 END:VCALENDAR

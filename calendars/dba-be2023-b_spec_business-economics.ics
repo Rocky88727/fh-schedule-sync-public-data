@@ -1,0 +1,140 @@
+BEGIN:VCALENDAR
+PRODID:-//fh-schedule-sync//Semester Schedule Export//DE
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-TIMEZONE:Europe/Berlin
+X-WR-CALNAME:Specialization BUSINESS_ECONOMICS
+BEGIN:VEVENT
+UID:evt_00043_dba-be2023-b-specialization-business-economics@fh-schedule-sy
+ nc.local
+DTSTAMP:20260308T205006Z
+SUMMARY:IE
+DTSTART;TZID=Europe/Berlin:20260123T090000
+DTEND;TZID=Europe/Berlin:20260123T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_economics
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00044_dba-be2023-b-specialization-business-economics@fh-schedule-sy
+ nc.local
+DTSTAMP:20260308T205006Z
+SUMMARY:ME
+DTSTART;TZID=Europe/Berlin:20260123T130000
+DTEND;TZID=Europe/Berlin:20260123T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_economics
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00045_dba-be2023-b-specialization-business-economics@fh-schedule-sy
+ nc.local
+DTSTAMP:20260308T205006Z
+SUMMARY:IE
+DTSTART;TZID=Europe/Berlin:20260202T090000
+DTEND;TZID=Europe/Berlin:20260202T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_economics
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00046_dba-be2023-b-specialization-business-economics@fh-schedule-sy
+ nc.local
+DTSTAMP:20260308T205006Z
+SUMMARY:ME
+DTSTART;TZID=Europe/Berlin:20260202T130000
+DTEND;TZID=Europe/Berlin:20260202T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_economics
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00047_dba-be2023-b-specialization-business-economics@fh-schedule-sy
+ nc.local
+DTSTAMP:20260308T205006Z
+SUMMARY:IE
+DTSTART;TZID=Europe/Berlin:20260206T090000
+DTEND;TZID=Europe/Berlin:20260206T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_economics
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00048_dba-be2023-b-specialization-business-economics@fh-schedule-sy
+ nc.local
+DTSTAMP:20260308T205006Z
+SUMMARY:ME
+DTSTART;TZID=Europe/Berlin:20260206T130000
+DTEND;TZID=Europe/Berlin:20260206T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_economics
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00049_dba-be2023-b-specialization-business-economics@fh-schedule-sy
+ nc.local
+DTSTAMP:20260308T205006Z
+SUMMARY:IE
+DTSTART;TZID=Europe/Berlin:20260305T080000
+DTEND;TZID=Europe/Berlin:20260305T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_economics
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00050_dba-be2023-b-specialization-business-economics@fh-schedule-sy
+ nc.local
+DTSTAMP:20260308T205006Z
+SUMMARY:IE
+DTSTART;TZID=Europe/Berlin:20260306T080000
+DTEND;TZID=Europe/Berlin:20260306T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_economics
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00051_dba-be2023-b-specialization-business-economics@fh-schedule-sy
+ nc.local
+DTSTAMP:20260308T205006Z
+SUMMARY:ME
+DTSTART;TZID=Europe/Berlin:20260306T130000
+DTEND;TZID=Europe/Berlin:20260306T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_economics
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00052_dba-be2023-b-specialization-business-economics@fh-schedule-sy
+ nc.local
+DTSTAMP:20260308T205006Z
+SUMMARY:IE
+DTSTART;TZID=Europe/Berlin:20260313T090000
+DTEND;TZID=Europe/Berlin:20260313T121500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_economics
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00053_dba-be2023-b-specialization-business-economics@fh-schedule-sy
+ nc.local
+DTSTAMP:20260308T205006Z
+SUMMARY:ME
+DTSTART;TZID=Europe/Berlin:20260313T130000
+DTEND;TZID=Europe/Berlin:20260313T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_economics
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_00054_dba-be2023-b-specialization-business-economics@fh-schedule-sy
+ nc.local
+DTSTAMP:20260308T205006Z
+SUMMARY:ME
+DTSTART;TZID=Europe/Berlin:20260318T130000
+DTEND;TZID=Europe/Berlin:20260318T161500
+LOCATION:not found
+DESCRIPTION:Dozent: not found
+CATEGORIES:dba_be2023-b/specialization/business_economics
+END:VEVENT
+END:VCALENDAR

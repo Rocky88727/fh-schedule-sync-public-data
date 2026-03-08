@@ -6,23 +6,23 @@ METHOD:PUBLISH
 X-WR-TIMEZONE:Europe/Berlin
 X-WR-CALNAME:KLAUSUREN
 BEGIN:VEVENT
-UID:evt_00094_dit2023-s1-elective-klausuren@fh-schedule-sync.local
+UID:evt_00094_dit2023-s2-elective-klausuren@fh-schedule-sync.local
 DTSTAMP:20260308T205006Z
 SUMMARY:Klausuren ET/SAP/Verw
 DTSTART;TZID=Europe/Berlin:20260320T110000
 DTEND;TZID=Europe/Berlin:20260320T120000
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/klausuren
+CATEGORIES:dit2023-s2/elective/klausuren
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_00095_dit2023-s1-elective-klausuren@fh-schedule-sync.local
+UID:evt_00095_dit2023-s2-elective-klausuren@fh-schedule-sync.local
 DTSTAMP:20260308T205006Z
 SUMMARY:Klausuren EMS // CT/Resp
 DTSTART;TZID=Europe/Berlin:20260327T100000
 DTEND;TZID=Europe/Berlin:20260327T120000
 LOCATION:not found
 DESCRIPTION:Dozent: not found
-CATEGORIES:dit2023-s1/elective/klausuren
+CATEGORIES:dit2023-s2/elective/klausuren
 END:VEVENT
 END:VCALENDAR
